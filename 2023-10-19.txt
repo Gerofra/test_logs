@@ -8,3 +8,7 @@ IP: 10.16.31.122
 (20:30:24) Pregunta: ha
 Respuesta: The word "ha" is not present in the given context information.
 ----------
+IP: 10.16.31.122
+(20:33:45) Pregunta: como se toma
+Respuesta: Siga exactamente las instrucciones de administración de este medicamento indicadas por su médico. Los comprimidos se deben tomar con un poco de agua, con o sin alimentos. La dosis recomendada de Vortioxetina es de 10 mg una vez al día para adultos menores de 65 años. Sin embargo, su médico puede ajustar la dosis según su respuesta al tratamiento, aumentándola hasta un máximo de 20 mg al día o reduciéndola hasta un mínimo de 5 mg al día. Si olvida tomar una dosis, tome la siguiente dosis a la hora habitual, pero no tome una dosis doble para compensar las dosis olvidadas.
+----------
