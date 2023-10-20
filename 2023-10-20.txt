@@ -2,3 +2,7 @@ IP: 10.16.31.122
 (18:19:36) Pregunta: dfglkjgerfwkjhdgfwkjhfgd
 Respuesta: I'm sorry, but I couldn't find any relevant information or answer to your query based on the given context.
 ----------
+IP: 10.16.31.122
+(18:20:30) Pregunta: para que sirves?
+Respuesta: Acsodix se utiliza para tratar episodios de depresión mayor en adultos.
+----------
